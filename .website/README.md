@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - party
 directors_cut: https://yellow-and-blue.onrender.com
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
